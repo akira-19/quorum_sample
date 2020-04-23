@@ -1,0 +1,26 @@
+{
+  "name": "quorum_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_name.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "web3": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akira-19/quorum_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akira-19/quorum_sample/issues"
+  },
+  "homepage": "https://github.com/akira-19/quorum_sample#readme"
+}
